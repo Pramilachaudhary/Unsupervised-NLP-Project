@@ -34,7 +34,8 @@ Class Name: Categorical name of the product class name.
 
 ## Tools:
 
-Python Pandas and Numpy for data clean, exploratory data analysis and feature engineering
+Python Pandas and Numpy for data clean, exploratory data analysis and feature engineering.
+
 Python NLTK, spaCy and Scikit-learn for text processing
 
 ## MVP Goal:
