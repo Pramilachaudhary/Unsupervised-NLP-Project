@@ -1,8 +1,8 @@
 # Project Proposal of Unsupervised Learning Project
 
 ## Question:
-I am going to use customer's reviews from Women's Clothing E-Commerce Company to build a unsupervised learning models 
-to do analysis and topic modeling to see which areas E-commerce company could improve for its customers. 
+I am going to use customer's reviews from Women's Clothing E-Commerce Company to build an unsupervised learning model 
+to do analysis and topic modeling to see which areas E-commerce company could improve for its customers for example: topics like  “positive reviews”, “negative reviews”, “reviews about fit”, “reviews about quality”, etc.
 
 ## Dataset:
 
