@@ -6,6 +6,7 @@ to do analysis and topic modeling to see which areas E-commerce company could im
 
 ## Dataset:
 
+Women’s Clothing E-Commerce dataset:
 https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews
 
 ## Data Description:
