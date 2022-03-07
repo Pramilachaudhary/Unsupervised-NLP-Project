@@ -20,6 +20,7 @@ After preprocessing a E-commerce company customer's reviews I selected the subse
 I built an LDA model using sklearn with a base model of 4 topics using Tfdif. Tuned the hyper parameters of the Tfdif to be max_df = 0.5 and  min_df = 0.05
 
 Here are the 4 topics with top ten terms:
+
 Topic1 : is about clothe size complains.
 
 Topic2 : is about fabric quality.
