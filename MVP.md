@@ -21,8 +21,11 @@ I built an LDA model using sklearn with a base model of 4 topics using Tfdif. Tu
 
 Here are the 4 topics with top ten terms:
 Topic1 : is about clothe size complains.
+
 Topic2 : is about fabric quality.
+
 Topic3 : is about meterial design.
+
 Topic4 : is about fittinf issues.
 
 
