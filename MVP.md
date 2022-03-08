@@ -17,7 +17,7 @@ Column used for modeling
 ## Method:
 
 After preprocessing a E-commerce company customer's reviews I selected the subset of the review text with rating below 4.
-I built an LDA model using sklearn with a base model of 4 topics using Tfdif. Tuned the hyper parameters of the Tfdif to be max_df = 0.5 and  min_df = 0.05
+I built a LDA model using sklearn with a base model of 4 topics using Tfdif. Tuned the hyper parameters of the Tfdif to be max_df = 0.5 and  min_df = 0.05
 
 Here are the 4 topics with top ten terms:
 
@@ -31,3 +31,6 @@ Topic4 : is about fittinf issues.
 
 
 ![topics](https://user-images.githubusercontent.com/89863226/157132911-728e5685-e695-43ad-93b0-b539fc3b3b38.png)
+
+
+Next, I plan to hypertune the parameters of the NMF and LSA model. I will be adding lemmatization and will be adding more frequent terms in the stop word list.
