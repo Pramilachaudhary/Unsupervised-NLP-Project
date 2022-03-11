@@ -5,7 +5,6 @@ Pramila Chaudhary
 The goal of this project is to build a topic modelling pipeline to see which areas an E-commerce company could improve for its customers.
 These areas were achieved by trying different topic modeling techniques and were able to get the clear topics using NMf with TF-IDF vectorizer.
 
-using customer's reviews from Women's Clothing E-Commerce Company
 
 ## Design:
 This model is designed for E-commerce companies which can make use of this model and categorize the reviews under certain themes to extract insights from their clothing reviews. 
