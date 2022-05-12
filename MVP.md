@@ -27,7 +27,7 @@ Topic2 : is about fabric quality.
 
 Topic3 : is about meterial design.
 
-Topic4 : is about fittinf issues.
+Topic4 : is about fittiness issues.
 
 
 ![topics](https://user-images.githubusercontent.com/89863226/157132911-728e5685-e695-43ad-93b0-b539fc3b3b38.png)
